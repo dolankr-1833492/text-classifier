@@ -1,1 +1,2 @@
 # text-classifier
+This program implements a text classifier which determines whether or not text should be flagged as toxic or spam with a binary decision tree that classifies text documents. My code is TextClassifier.java. While this is effective it is worth noting overly simplistic assumptions could be reached because the words are treated as independent occurrences and context is not addressed. 
